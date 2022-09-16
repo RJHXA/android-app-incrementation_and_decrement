@@ -21,9 +21,9 @@ Project was created with:
 
 ## Screenshots
 
-###![app_pag_initial](https://user-images.githubusercontent.com/89234813/190648243-24b77f53-8579-448f-a08f-aa73529f16a1.png)
+![app_pag_initial](https://user-images.githubusercontent.com/89234813/190648243-24b77f53-8579-448f-a08f-aa73529f16a1.png)
 
-###![app_pag_final](https://user-images.githubusercontent.com/89234813/190648316-cb506d2c-3afd-430f-9c59-ca59582fbedc.png)
+![app_pag_final](https://user-images.githubusercontent.com/89234813/190648316-cb506d2c-3afd-430f-9c59-ca59582fbedc.png)
 
 ## Status
 
